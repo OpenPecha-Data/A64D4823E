@@ -1,0 +1,19 @@
+id: A64D4823E
+title: 'A Song to Delight Vaiśravaṇa: Praise of the Great King Vaiśravaṇa'
+type: translation
+pechas:
+- ID1A88637
+- IE2F54AE9
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:09:45.578707
+  last_modified_at: 2023-01-04 12:09:45.578716
+  collections:
+  - Jamyang Khyentse Chökyi Lodrö Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  ID1A88637/8222: 7CC5
+  IE2F54AE9/BFDD: 7CC5
